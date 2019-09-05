@@ -6,7 +6,7 @@ Elegant custom homes developed in the early 1990's. Woodchase Estates is a beaut
 
 Find out more information at [Woodchase Estates](https://www.woodchase.org/).
 
-<img class="resize"  src="https://aicontent.remax-louisiana.com/f/content/252/6d5193b62a854358a4a0d662a94f8ad5/600x450.jpg" alt="WoodChase Estates Subdivision - Baton Rouge, LA">
+<img class="resize"  src="https://raw.githubusercontent.com/woodchase/website/master/images/new.jpg" alt="WoodChase Estates Subdivision - Baton Rouge, LA">
 
 ## Notable Amenities
 
