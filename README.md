@@ -8,7 +8,7 @@
 
 <img class="resize"  src="https://raw.githubusercontent.com/woodchase/website/master/images/newindex.jpg" alt="WoodChase Estates Subdivision - Baton Rouge, LA">
 
-## Notable Amenities
+## Notable Area Amenities
 
 | Worship/Medical | Education    | Food         | Downtown | Commute          | Communities  | Health
 | :---            | :---:        | :---:        | :---:    | :---:            | :---:        | ---:
