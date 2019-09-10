@@ -10,13 +10,12 @@
 
 ## Notable Amenities
 
-| Worship/Medical | Education      | Food          | Downtown | Commute          | Community        
-| :---            | :---:          | :---:         | :---:    | :---:            |  ---:
-| Church's        | School's       | Restaraunt's  | Capital  | Interstate-10    | HOA           
-| Hospital's      | Universities   | Groceries     | US Kid   | BR Metro Airport | Family Events 
+| Worship/Medical | Education    | Food         | Downtown | Commute          | Communities   | Health        
+| :---            | :---:        | :---:        | :---:    | :---:            |  :---:        | ---:
+| Church's        | School's     | Restaraunt's | Capital  | Interstate-10    |  Rouzan       ! LSU Lakes         
+| Hospital's      | Universities | Groceries    | US Kid   | BR Metro Airport |  Pollard      | Local Gyms
 
-
-Find out more detailed information by visiting [Woodchase Estates](http://www.woodchase.org/).
+Find out the detailed information by visiting [Woodchase Estates](http://www.woodchase.org/).
 
 ## Social Media
 
