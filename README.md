@@ -2,7 +2,7 @@
  
 ## A Premier Development in South Baton Rouge
 
-***Elegant custom homes developed in the early 1990's. Woodchase Estates is a beautiful prestigous subdivision of mainly four bedroom houses ranging in sizes up to 5,000 square feet. Conveniently located in the heart of Baton Rouge in which is located off Perkins Road, between College Drive and Essen Lane. Woodchase Estates being lovely maintained is also strategically located in the center of Rouzan and Pollard neighborhoods. There are three nearby easily accessible ramps for Interstate 10 commuting and it is only minutes away from the Baton Rouge Metropolitan Airport.***
+**Elegant custom homes developed in the early 1990's. Woodchase Estates is a beautiful prestigous subdivision of mainly four bedroom houses ranging in sizes up to 5,000 square feet. Conveniently located in the heart of Baton Rouge in which is located off Perkins Road, between College Drive and Essen Lane. Woodchase Estates being lovely maintained is also strategically located in the center of Rouzan and Pollard neighborhoods. There are three nearby easily accessible ramps for Interstate 10 commuting and it is only minutes away from the Baton Rouge Metropolitan Airport.**
 
 *Find out more information at [Woodchase Estates](https://www.woodchase.org/).*
 
